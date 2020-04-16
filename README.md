@@ -1,2 +1,2 @@
 # Calendario-Eventos
-Calendario Eventos - PHP - CSS - JS
+Calendario de Eventos simples {{estudos}}
